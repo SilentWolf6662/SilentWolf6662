@@ -2,7 +2,8 @@
 
 # ![image-wave] Hello Fellow &lt;Developers/&gt;
 
-![Visitors][visitors-shield] ![Last update][last-update-shield]
+![Last update][last-update-shield]
+![Visitor Count][visitors]
 
 Hi! My name is SilentWolf6662. Thank You for taking the time to view my GitHub Profile
 
@@ -24,12 +25,12 @@ Hi! My name is SilentWolf6662. Thank You for taking the time to view my GitHub P
 
 > My other aliases is the following:
 >
-> SilentWolf
-> Wolf
-> Wolfie
-> Silent
-> SW
-> Ninja
+> - SilentWolf
+> - Wolf
+> - Wolfie
+> - Silent
+> - SW
+> - Ninja
 
 </details>
 
@@ -182,7 +183,7 @@ Hi! My name is SilentWolf6662. Thank You for taking the time to view my GitHub P
 </div>
 
 [top]: #top
-[visitors-shield]: https://visitor-badge.glitch.me/badge?page_id=SilentWolf6662.SilentWolf6662.SilentWolf6662
+[visitors]: https://profile-counter.glitch.me/SilentWolf6662/count.svg
 [last-update-shield]: https://img.shields.io/github/last-commit/SilentWolf6662/SilentWolf6662?color=743E8A&label=Last%20update&style=flat-square
 [follower-shield]: exampleLink.com
 [joke-card]: https://readme-jokes.vercel.app/api?hideBorder&theme=onedark&qColor=%237687db&aColor=%238f45a9

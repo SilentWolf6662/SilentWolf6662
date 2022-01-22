@@ -1,0 +1,12 @@
+{
+    "discord-chat.token": "mfa.yeUHHjckcYdaMagZie2uZRhbFWITcBU4NkMdsP-sptKyQuofeK9TYqyWQHPOQ_-q-_x2a49QVfuuczMOMpm7",
+    "[markdown]": {
+        // ...
+        "editor.quickSuggestions": {
+            "other": true,
+            "comments": false,
+            "strings": false
+        },
+        // ...
+    },
+}

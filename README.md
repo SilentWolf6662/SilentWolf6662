@@ -182,7 +182,7 @@ Hi! My name is SilentWolf6662. Thank You for taking the time to view my GitHub P
 </div>
 
 [top]: #top
-[visitors-shield]: https://visitor-badge.glitch.me/badge?page_id=
+[visitors-shield]: https://visitor-badge.glitch.me/badge?page_id=SilentWolf6662.SilentWolf6662.SilentWolf6662
 [last-update-shield]: https://img.shields.io/github/last-commit/SilentWolf6662/SilentWolf6662?color=743E8A&label=Last%20update&style=flat-square
 [follower-shield]: exampleLink.com
 [joke-card]: https://readme-jokes.vercel.app/api?hideBorder&theme=onedark&qColor=%237687db&aColor=%238f45a9

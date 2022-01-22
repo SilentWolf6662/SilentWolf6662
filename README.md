@@ -181,26 +181,6 @@ Hi! My name is SilentWolf6662. Thank You for taking the time to view my GitHub P
     Made with ❤️ by SilentWolf6662
 </div>
 
-<script src="https://kit.fontawesome.com/babf73b8d3.js" crossorigin="anonymous"></script>
-<script>
-    function exampleTooltip() {
-        var tooltip = document.getElementById("example");
-        tooltip.classList.toggle("show");
-    }
-    function discordTooltip() {
-        var tooltip = document.getElementById("discord");
-        tooltip.classList.toggle("show");
-    }
-    function dndTooltip() {
-        var tooltip = document.getElementById("dnd");
-        tooltip.classList.toggle("show");
-    }
-    function closeTooltip() {
-        var tooltip = document.getElementsByClassName("tooltipText");
-        tooltip.classList.toggle("close");
-    }
-</script>
-
 [top]: #top
 [visitors-shield]: https://visitor-badge.glitch.me/badge?page_id=
 [last-update-shield]: https://img.shields.io/github/last-commit/SilentWolf6662/SilentWolf6662?color=743E8A&label=Last%20update&style=flat-square

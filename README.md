@@ -2,7 +2,8 @@
 
 # ![image-wave] Hello Fellow &lt;Developers/&gt;
 
-![Visitors][visitors-shield] ![Last update][last-update-shield]
+![Last update][last-update-shield]
+![Visitor Count][visitors]
 
 Hi! My name is SilentWolf6662. Thank You for taking the time to view my GitHub Profile
 
@@ -24,12 +25,12 @@ Hi! My name is SilentWolf6662. Thank You for taking the time to view my GitHub P
 
 > My other aliases is the following:
 >
-> SilentWolf
-> Wolf
-> Wolfie
-> Silent
-> SW
-> Ninja
+> - SilentWolf
+> - Wolf
+> - Wolfie
+> - Silent
+> - SW
+> - Ninja
 
 </details>
 
@@ -155,12 +156,6 @@ Hi! My name is SilentWolf6662. Thank You for taking the time to view my GitHub P
 
 ---
 
-<!-- ## **Stuff I worked on last week** ![image-ineedabr]
-
-[![SilentWolf6662's Wakatime Stats][wakatime-stats]][link-wakatime-profile]
-
---- -->
-
 ## **My Stats** <img align="center" width="32px" src="Assets/giphy.webp" alt="Giphy"/>
 
 [![SilentWolf6662"s GitHub stats][github-stats]][github-link]
@@ -181,28 +176,8 @@ Hi! My name is SilentWolf6662. Thank You for taking the time to view my GitHub P
     Made with ❤️ by SilentWolf6662
 </div>
 
-<script src="https://kit.fontawesome.com/babf73b8d3.js" crossorigin="anonymous"></script>
-<script>
-    function exampleTooltip() {
-        var tooltip = document.getElementById("example");
-        tooltip.classList.toggle("show");
-    }
-    function discordTooltip() {
-        var tooltip = document.getElementById("discord");
-        tooltip.classList.toggle("show");
-    }
-    function dndTooltip() {
-        var tooltip = document.getElementById("dnd");
-        tooltip.classList.toggle("show");
-    }
-    function closeTooltip() {
-        var tooltip = document.getElementsByClassName("tooltipText");
-        tooltip.classList.toggle("close");
-    }
-</script>
-
 [top]: #top
-[visitors-shield]: https://visitor-badge.glitch.me/badge?page_id=
+[visitors]: https://profile-counter.glitch.me/SilentWolf6662/count.svg
 [last-update-shield]: https://img.shields.io/github/last-commit/SilentWolf6662/SilentWolf6662?color=743E8A&label=Last%20update&style=flat-square
 [follower-shield]: exampleLink.com
 [joke-card]: https://readme-jokes.vercel.app/api?hideBorder&theme=onedark&qColor=%237687db&aColor=%238f45a9

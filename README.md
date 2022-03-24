@@ -64,6 +64,7 @@ Hi! My name is SilentWolf6662. Thank You for taking the time to view my GitHub P
 > - C#
 > - Unity
 > - LUA
+> - Java
 
 </details>
 

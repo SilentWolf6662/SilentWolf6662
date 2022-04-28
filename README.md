@@ -127,6 +127,7 @@ Hi! My name is SilentWolf6662. Thank You for taking the time to view my GitHub P
 ## **Languages & Tools** ![image-devslash]
 
 [![C#][icon-csharp]][link-csharp]
+[![C++][icon-cpp]][link-cpp]
 [![JavaScript][icon-javascript]][link-javascript]
 [![TypeScript][icon-typescript]][link-typescript]
 [![CSS3][icon-css]][link-css3]
@@ -187,6 +188,7 @@ Hi! My name is SilentWolf6662. Thank You for taking the time to view my GitHub P
 [github-most-languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=SilentWolf6662&theme=tokyonight&hide=issues&show_icons=true&hide_border=true&border_radius=10&title_color=7181CE&icon_color=743E8A&text_color=7181CE&bg_color=282C34
 [wakatime-stats]: https://github-readme-stats.vercel.app/api/wakatime?username=@SilentWolf6662&compact=true&theme=tokyonight&hide=issues&show_icons=true&hide_border=true&border_radius=10&hide_title=true&title_color=743E8A&icon_color=743E8A&text_color=7181CE&bg_color=282C34
 [icon-csharp]: Assets/csharp.svg
+[icon-cpp]: https://en.wikipedia.org/wiki/C%2B%2B#/media/File:ISO_C++_Logo.svg
 [icon-html]: Assets/html.svg
 [icon-css]: Assets/css.svg
 [icon-apache]: Assets/apache.png
@@ -217,6 +219,7 @@ Hi! My name is SilentWolf6662. Thank You for taking the time to view my GitHub P
 [link-lua]: https://www.lua.org
 [link-dnd]: https://dnd.wizards.com
 [link-csharp]: https://dotnet.microsoft.com/en-us/languages/csharp
+[link-cpp]: https://cplusplus.com
 [link-javascript]: https://www.javascript.com
 [link-typescript]: https://www.typescriptlang.org
 [link-discordjs]: https://discord.js.org/#

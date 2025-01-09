@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mathias Andersen or better known as SilentWolf</h1>
-<h2 align="center">A 22 year old passionated frontend developer based in Denmark</h3>
+<h4 align="center">Based in Denmark</h4>
+<h2 align="center">Frontend Developer</h2>
+<h3 align="center">22 year</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=silentwolf6662&label=Profile%20views&color=0e75b6&style=flat" alt="silentwolf6662" /> </p>

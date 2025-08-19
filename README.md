@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=silentwolf6662&label=Profile%20views&color=0e75b6&style=flat" alt="silentwolf6662" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Optimization of code** & be better at **Guitar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

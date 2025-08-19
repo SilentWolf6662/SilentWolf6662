@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mathias Andersen or better known as SilentWolf</h1>
+<h1 align="center">Hi 👋, I'm SilentWolf</h1>
 <h2 align="center">A 23 year old frontend developer based in Denmark</h3>
 
 

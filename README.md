@@ -45,12 +45,12 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-	<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=silentwolf6662&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top languages" height="165" />
-	<img src="https://github-stats-extended.vercel.app/api?username=silentwolf6662&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub stats" height="165" />
+	<img src="https://github-stats-extended.vercel.app/api/top-langs?username=SilentWolf6662&layout=compact&langs_count=5&theme=omni" alt="Top languages" height="165" />
+	<img src="https://github-stats-extended.vercel.app/api?username=SilentWolf6662&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=omni" alt="GitHub stats" height="165" />
 </p>
 
 <p align="center">
-	<img src="https://streak-stats.demolab.com?user=silentwolf6662&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+	<img src="https://streak-stats.demolab.com?user=silentwolf6662&theme=omni&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---

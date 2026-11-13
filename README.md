@@ -45,8 +45,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silentwolf6662&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top languages" height="165" />
-	<img src="https://github-readme-stats.vercel.app/api?username=silentwolf6662&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub stats" height="165" />
+	<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=silentwolf6662&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top languages" height="165" />
+	<img src="https://github-stats-extended.vercel.app/api?username=silentwolf6662&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub stats" height="165" />
 </p>
 
 <p align="center">
